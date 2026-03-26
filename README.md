@@ -1,8 +1,8 @@
 # Hi, I'm Siniša 👋
 
-Full-stack Laravel Developer focused on building scalable web applications and modern SaaS products.
+Full-stack Laravel Developer building scalable SaaS products and modern web applications.
 
-🔗 Portfolio: https://nikolic.dev  
+🔗 Portfolio: https://nikolic.dev
 
 ---
 
@@ -20,6 +20,8 @@ Full-stack Laravel Developer focused on building scalable web applications and m
 ### Laravel Portfolio CMS
 A full-featured portfolio CMS with admin panel, project management, and dynamic content editing.
 
+Built as a complete solution for developers and freelancers to manage and showcase their work.
+
 - Admin dashboard
 - SEO-ready structure
 - Customizable sections (Hero, About, Projects, Skills, Contact)
@@ -31,6 +33,8 @@ A full-featured portfolio CMS with admin panel, project management, and dynamic 
 ### Nexora SaaS Template
 A modern SaaS landing and application template built with Laravel and TailwindCSS.
 
+Designed as a production-ready SaaS foundation for fast product launches.
+
 - Clean UI/UX
 - Scalable structure
 - Ready for production use
@@ -41,11 +45,11 @@ A modern SaaS landing and application template built with Laravel and TailwindCS
 
 ## 🛠 Tech Stack
 
-- PHP / Laravel
-- JavaScript / React (learning)
+- PHP / Laravel (backend, APIs, architecture)
+- JavaScript / React (learning, expanding frontend capabilities)
 - TailwindCSS / SCSS
 - MySQL / SQLite
-- REST APIs
+- REST APIs / integrations
 
 ---
 
@@ -54,10 +58,11 @@ A modern SaaS landing and application template built with Laravel and TailwindCS
 - Remote full-stack roles (EU / Scandinavia)
 - B2B / contract opportunities
 - Product-focused teams
+- Open to long-term collaboration and product-focused teams
 
 ---
 
 ## 📫 Contact
 
 - Website: https://nikolic.dev
-- LinkedIn: https://www.linkedin.com/in/YOUR-PROFILE
+- LinkedIn: https://www.linkedin.com/in/sinisa-nikolic-dev/
