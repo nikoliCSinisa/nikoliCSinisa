@@ -58,7 +58,7 @@ Designed as a production-ready SaaS foundation for fast product launches.
 - Remote full-stack roles (EU / Scandinavia)
 - B2B / contract opportunities
 - Product-focused teams
-- Open to long-term collaboration and product-focused teams
+- Open to long-term collaboration
 
 ---
 
