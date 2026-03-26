@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Siniša 👋
 
-<!--
-**nikoliCSinisa/nikoliCSinisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Laravel Developer focused on building scalable web applications and modern SaaS products.
 
-Here are some ideas to get you started:
+🔗 Portfolio: https://nikolic.dev  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 What I do
+
+- Backend: PHP, Laravel, REST APIs
+- Frontend: JavaScript, TailwindCSS
+- Currently learning: React & React Native
+- Experience with CMS: Magnolia CMS (FreeMarker)
+
+---
+
+## 🚀 Featured Work
+
+### Laravel Portfolio CMS
+A full-featured portfolio CMS with admin panel, project management, and dynamic content editing.
+
+- Admin dashboard
+- SEO-ready structure
+- Customizable sections (Hero, About, Projects, Skills, Contact)
+
+👉 Live demo available on request
+
+---
+
+### Nexora SaaS Template
+A modern SaaS landing and application template built with Laravel and TailwindCSS.
+
+- Clean UI/UX
+- Scalable structure
+- Ready for production use
+
+👉 Commercial project (code not publicly available)
+
+---
+
+## 🛠 Tech Stack
+
+- PHP / Laravel
+- JavaScript / React (learning)
+- TailwindCSS / SCSS
+- MySQL / SQLite
+- REST APIs
+
+---
+
+## 📌 What I'm looking for
+
+- Remote full-stack roles (EU / Scandinavia)
+- B2B / contract opportunities
+- Product-focused teams
+
+---
+
+## 📫 Contact
+
+- Website: https://nikolic.dev
+- LinkedIn: https://www.linkedin.com/in/YOUR-PROFILE
